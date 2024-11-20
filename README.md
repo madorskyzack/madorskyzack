@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zack Madorsky!
 - 👀 I’m interested in solving complex problems and making the world a better place
-- 🌱 I’m currently learning how to integrate machine learning into my projects!
+- 🌱 I’m currently working on getting my Full Stack certification from IBM - But trying to work on projects here!
 - 📫 Reach me at madorskyzack@gmail.com
 
 <!---
